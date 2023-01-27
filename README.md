@@ -4,5 +4,6 @@
 <br> Nele foi aplicado as tecnologias HTML e CSS, além de responsividade.</p>
 <br>
 <br>
-<h1>PROJETO FINAL</h1>
+<h2>PROJETO FINAL</h2>
 <h3>NO COMPUTADOR</h3>
+<img src=">
