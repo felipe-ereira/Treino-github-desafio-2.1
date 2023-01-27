@@ -6,4 +6,9 @@
 <br>
 <h2>PROJETO FINAL</h2>
 <h3>NO COMPUTADOR</h3>
-<img src=">
+<img src="https://raw.githubusercontent.com/felipe-ereira/Treino-github-desafio-2.1/master/assets/desktop.png"/>
+<br>
+<h3>NO CELULAR</h3>
+<img src="https://raw.githubusercontent.com/felipe-ereira/Treino-github-desafio-2.1/master/assets/mobile.png"/>
+
+
